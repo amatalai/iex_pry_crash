@@ -1,5 +1,8 @@
 # IexPryCrash
 
+Issue: https://github.com/elixir-lang/elixir/issues/8729
+Fixed in: https://github.com/elixir-lang/elixir/pull/8730/files
+
 Minimum example to reproduce bug
 
 Run `mix test`
