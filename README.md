@@ -1,13 +1,15 @@
 # IexPryCrash
 
-Issue: https://github.com/elixir-lang/elixir/issues/8729
+Minimum example to reproduce a bug
+
+Issue: https://github.com/elixir-lang/elixir/issues/8729 <br>
 Fixed in: https://github.com/elixir-lang/elixir/pull/8730/files
 
-Minimum example to reproduce bug
+## Steps to Reproduce
 
-Run `mix test`
+1. Run `mix test`
 
-Outputs
+## Outputs
 
 Elixir 1.7.4:
 ```
