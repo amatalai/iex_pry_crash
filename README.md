@@ -5,7 +5,7 @@ Minimum example to reproduce a bug
 Issue: https://github.com/elixir-lang/elixir/issues/8729 <br>
 Fixed in: https://github.com/elixir-lang/elixir/pull/8730/files
 
-## Steps to Reproduce
+## Steps to reproduce
 
 1. Run `mix test`
 
